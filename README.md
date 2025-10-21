@@ -3,16 +3,16 @@
 Proyecto de la asignatura DESIN (Desarrollo de Interfaces) en segundo curso de DAM, cuyo objetivo es aplicar los conocimientos de Java Swing para desarrollar una aplicaci贸n tipo caja registradora.  
 
 
-## 馃З Descripci贸n
+## Descripci贸n
 
 Caja Registradora DESIN es una aplicaci贸n de escritorio desarrollada en Java con interfaz gr谩fica (Swing), que simula un sistema de caja registradora.  
 
 
 # Funcionalidades principales
-	- Gestión de productos
-	- Gestión de usuarios
-	- Realizaci髇 de ventas: selecci髇 de productos, c醠culo de totales
-	- Generación de tickets a ficheros TXT y CSV
+	- Gesti贸n de productos
+	- Gesti贸n de usuarios
+	- Realizaci贸n de ventas: selecci贸n de productos, c谩lculo de totales
+	- Generaci贸n de tickets a ficheros TXT y CSV
 	- Manejar datos persistentes a traves de archivos CSV.
 	
 # Ficheros de persistencia
@@ -20,15 +20,15 @@ Caja Registradora DESIN es una aplicaci贸n de escritorio desarrollada en Java co
 	- **usuarios.csv**: archivo donde se almacenan los datos de los usuarios.
 	
 
-## ?? Tecnolog韆s y dependencias
+## Tecnolog铆as y dependencias
 
 - Java **21**
-- Swing para la interfaz gr醘ica  
+- Swing para la interfaz gr谩fica  
 - Manejo de archivos CSV para persistencia simple  
-- Ant como herramienta de construcci髇 (build.xml)
+- Ant como herramienta de construcci贸n (build.xml)
 
 
-## Instalaci髇 y ejecuci髇
+## Instalaci贸n y ejecuci贸n
 
 1. Clonar el repositorio
 git clone https://github.com/Asierrl1110/CajaRegistradoraDESIN.git
