@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<toc version="1.0"> <!--  categoryclosedimage="FolderClosed" categoryopenimage="FolderOpened"  
+topicimage="ItemIco"-->
+	<tocitem text="Pantalla de Inicio"   target="inicio">
+		<tocitem text="Iniciar Sesion"   target="iniciosesion"/>
+		<tocitem text="Registrarse"   target="registrarse"/>
+	</tocitem>
+	<tocitem text="Usar la Caja"   target="caja">
+		<tocitem text="Permisos Administrador"   target="admin"/>
+	</tocitem>
+</toc>
